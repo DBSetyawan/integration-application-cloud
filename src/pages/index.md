@@ -1,6 +1,6 @@
 ---
 templateKey: 'home-page'
-title: Gatsby Starter Business
+title: Customize application integration business
 meta_title: Home | Gatsby Starter Business
 meta_description: >-
   Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
