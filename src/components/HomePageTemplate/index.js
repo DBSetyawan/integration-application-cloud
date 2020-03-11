@@ -35,7 +35,6 @@ const HomePageTemplate = ({
     </section>
     <section className='section section--gradient'>
       <div className='container'>
-
         <div className='section'>
           <div className='columns'>
             <div className='column is-10 is-offset-1'>
@@ -47,7 +46,7 @@ const HomePageTemplate = ({
                   <p>{description}</p>
                 </div>
                 <Offerings gridItems={offerings.blurbs} />
-                <h2 className='has-text-weight-semibold is-size-2'>Testimonials</h2>
+                <h2 className='has-text-weight-semibold is-size-2'>Kata Pelanggan</h2>
                 <Testimonials testimonials={testimonials} />
               </div>
             </div>

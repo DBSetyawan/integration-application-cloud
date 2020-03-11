@@ -52,7 +52,7 @@ export default class BlogPage extends Component {
                 <div className='column is-10 is-offset-1'>
                   <div className='section'>
                     <h1 className='title'>
-                      Blog
+                     Halaman blog
                     </h1>
                   </div>
                 </div>
@@ -64,8 +64,8 @@ export default class BlogPage extends Component {
           <PostCard posts={group} />
           <section className='section'>
             <div className='buttons is-centered'>
-              <PaginationLink test={first} url={previousUrl} text='Previous Page' />
-              <PaginationLink test={last} url={nextUrl} text='Next Page' />
+              <PaginationLink test={first} url={previousUrl} text='Sebelumnya' />
+              <PaginationLink test={last} url={nextUrl} text='Selanjutnya' />
             </div>
           </section>
         </section>
