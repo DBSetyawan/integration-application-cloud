@@ -26,7 +26,7 @@ const HomePageTemplate = ({
             <div className='column is-10 is-offset-1'>
               <div className='section'>
                 <p className='has-text-centered'>
-                  <img src={logo} />
+                  <img src={logo}/>
                 </p>
               </div>
             </div>

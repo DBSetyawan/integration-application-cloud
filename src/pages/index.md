@@ -45,7 +45,7 @@ offerings:
         Sed luctus lacus vel tempus posuere. Ut suscipit auctor tortor. Phasellus leo dui, elementum 
         non sollicitudin eget, porta vehicula odio. Sed mollis, metus sit amet porttitor vehicula, 
         quam augue pretium erat, at commodo nisl tellus non risus.
-    - image: /icons/image_157824809483.jpg
+    - image: /icons/php-login-and-authentication-the-definitive-guide.png
       text: >
         Vestibulum libero lectus, dignissim eget magna sit amet, malesuada tincidunt mi. Vivamus 
         sed erat iaculis mauris efficitur vehicula. Aliquam sed urna at tellus ullamcorper 
