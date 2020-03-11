@@ -1,7 +1,7 @@
 ---
 templateKey: about-page
-title: About Us
-meta_title: About Us | Gatsby Starter Business
+title: Tentang kami
+meta_title: Tentang kami | Integration process your business
 meta_description: >-
   Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
   ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam

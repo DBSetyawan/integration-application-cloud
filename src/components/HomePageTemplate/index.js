@@ -3,7 +3,7 @@ import Helmet from 'react-helmet'
 import Offerings from '../Offerings'
 import Testimonials from '../Testimonials'
 import PropTypes from 'prop-types'
-import logo from '../../../static/icons/incons.png';
+import logo from '../../../static/icons/partner_logo_integration_cloud.png';
 
 const HomePageTemplate = ({
   title,
@@ -19,8 +19,7 @@ const HomePageTemplate = ({
       <title>{meta_title}</title>
       <meta name='description' content={meta_description} />
     </Helmet>
-    <section className='hero is-0-mobile is-bold is-medium'>
-      <div className='hero-body'>
+    <section className='hero is-0-primary is-bold is-medium'>
         <div className='container'>
           <div className='columns'>
             <div className='column is-10 is-offset-1'>
@@ -32,7 +31,6 @@ const HomePageTemplate = ({
             </div>
           </div>
         </div>
-      </div>
     </section>
     <section className='section section--gradient'>
       <div className='container'>

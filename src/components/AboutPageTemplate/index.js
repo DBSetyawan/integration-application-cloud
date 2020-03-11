@@ -1,7 +1,7 @@
 import React from 'react'
 import Content from '../Content'
 import PropTypes from 'prop-types'
-import logo from '../../../static/icons/incons.png';
+import logo from '../../../static/icons/partner_logo_integration_cloud.png';
 
 const AboutPageTemplate = ({ title, content, contentComponent }) => {
   const PageContent = contentComponent || Content
@@ -9,7 +9,6 @@ const AboutPageTemplate = ({ title, content, contentComponent }) => {
   return (
     <div>
       <section className='hero is-0-mobile is-bold is-medium'>
-      <div className='hero-body'>
         <div className='container'>
           <div className='columns'>
             <div className='column is-10 is-offset-1'>
@@ -21,7 +20,6 @@ const AboutPageTemplate = ({ title, content, contentComponent }) => {
             </div>
           </div>
         </div>
-      </div>
     </section>
       <section className='section section--gradient'>
         <div className='container'>

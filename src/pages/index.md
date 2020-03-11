@@ -1,30 +1,22 @@
 ---
 templateKey: 'home-page'
 title: Customize application integration business
-meta_title: Home | Gatsby Starter Business
+meta_title: Dashboard | Integration process your business
 meta_description: >-
   Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
   ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam
   venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis
   consectetur purus sit amet fermentum.
-heading: Integration application customize business
+heading: Kustomisasi aplikasi bisnis yang terintagrasi berbasis cloud
 description: >-
-  Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,
-  adipisci velit...
+  Kami menyediakan jasa custom aplikasi dengan pengintegrasian accurate.id & file system google drive(management file berbasis cloud) dengan file system laravel.
 offerings:
   blurbs:
-    - image: /icons/partner_logo_integration_cloud.png
+    - image: /icons/sitelink-integrations-partners.png
       text: >
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc finibus 
-        sem a sem ultrices, eget sagittis magna tempor. Quisque pulvinar lorem 
-        molestie sapien ornare cursus. Praesent eget volutpat est. Proin at 
-        sagittis ex. Duis quis dui magna. Nullam urna purus, blandit vitae tincidunt ut, 
-        scelerisque eu sem. Etiam porttitor elit eget mi luctus, vitae blandit enim pretium. 
-        Aenean nec hendrerit leo, a bibendum magna. In hac habitasse platea dictumst. 
-        Suspendisse sapien magna, vestibulum non vehicula id, pellentesque in ante. Nullam 
-        sed auctor tellus. Sed ipsum sem, dapibus nec eros in, feugiat sagittis mi. 
-        Nullam et dui interdum, varius nibh eu, efficitur metus.
-    - image: /icons/drive-integration.png
+        REST (Representional State Transfer) adalah suatu arsitektur metode komunikasi yang menggunakan protokol HTTP untuk pertukaran data dan metode ini sering diterapkan dalam pengembangan aplikasi. Dimana tujuannya adalah untuk menjadikan sistem yang memiliki performa yang baik, cepat dan mudah untuk di kembangkan (scale) terutama dalam pertukaran dan komunikasi data.
+        REST API yang memanfaatkan prinsip HATEOAS memiliki keuntungan bagi software developer. Sebuah REST API memiliki satu endpoint utama (URL) yang dapat diakses, selanjutnya dapat dieksplorasi seperti halnya melakukan browsing pada Web. Resources dapat dengan mudah ditelusuri dan ditemukan melalui hyperlinks, serta juga dapat dimanipulasi dengan menggunakan HTTP verbs
+    - image: /icons/maxresdefault.jpg
       text: >
         Fusce semper turpis sed tortor consectetur condimentum. Nulla facilisi. Nam 
         ipsum nulla, dapibus eu mi non, commodo commodo sapien. Pellentesque luctus 
