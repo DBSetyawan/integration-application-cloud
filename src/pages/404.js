@@ -10,7 +10,7 @@ const NotFoundPage = () => (
             <div className='column is-10 is-offset-1'>
               <div className='section is-centered'>
                 <h1 className='title'>
-                                    404: NOT FOUND
+                                    404: TIDAK DAPAT MENEMUKAN
                 </h1>
                 <h2 className='subtitle'>
                                     You just hit a route that doesn&#39;t exist... the

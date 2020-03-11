@@ -3,6 +3,7 @@ import Helmet from 'react-helmet'
 import Offerings from '../Offerings'
 import Testimonials from '../Testimonials'
 import PropTypes from 'prop-types'
+import logo from '../../../static/icons/incons.png';
 
 const HomePageTemplate = ({
   title,
@@ -18,15 +19,15 @@ const HomePageTemplate = ({
       <title>{meta_title}</title>
       <meta name='description' content={meta_description} />
     </Helmet>
-    <section className='hero is-primary is-bold is-medium'>
+    <section className='hero is-0-mobile is-bold is-medium'>
       <div className='hero-body'>
         <div className='container'>
           <div className='columns'>
             <div className='column is-10 is-offset-1'>
               <div className='section'>
-                <h1 className='title'>
-                  {title}
-                </h1>
+                <p className='has-text-centered'>
+                  <img src={logo} />
+                </p>
               </div>
             </div>
           </div>
@@ -35,7 +36,6 @@ const HomePageTemplate = ({
     </section>
     <section className='section section--gradient'>
       <div className='container'>
-
         <div className='section'>
           <div className='columns'>
             <div className='column is-10 is-offset-1'>
@@ -47,7 +47,7 @@ const HomePageTemplate = ({
                   <p>{description}</p>
                 </div>
                 <Offerings gridItems={offerings.blurbs} />
-                <h2 className='has-text-weight-semibold is-size-2'>Kata Pelanggan</h2>
+                <h2 className='has-text-weight-semibold is-size-2'>Testimoni</h2>
                 <Testimonials testimonials={testimonials} />
               </div>
             </div>

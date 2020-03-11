@@ -2,6 +2,7 @@ import React from 'react'
 import Helmet from 'react-helmet'
 import Pricing from '../Pricing'
 import PropTypes from 'prop-types'
+import logo from '../../../static/icons/incons.png';
 
 const PricingPageTemplate = ({
   title,
@@ -14,15 +15,15 @@ const PricingPageTemplate = ({
       <title>{meta_title}</title>
       <meta name='description' content={meta_description} />
     </Helmet>
-    <section className='hero is-primary is-bold is-medium'>
+    <section className='hero is-0-mobile is-bold is-medium'>
       <div className='hero-body'>
         <div className='container'>
           <div className='columns'>
             <div className='column is-10 is-offset-1'>
               <div className='section'>
-                <h1 className='title'>
-                  {title}
-                </h1>
+                <p className='has-text-centered'>
+                  <img src={logo} />
+                </p>
               </div>
             </div>
           </div>

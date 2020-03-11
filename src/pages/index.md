@@ -56,7 +56,7 @@ offerings:
         In tempor, massa quis euismod convallis, felis elit sodales urna, at aliquet mi elit auctor 
         risus.
 testimonials:
-  - author: Vaibhav Sharma
+  - author: Laila Nur Rahmadhani
     quote: >-
       Donec scelerisque magna nec condimentum porttitor. Aliquam vel diam sed diam luctus pretium. 
       Sed quis egestas libero. Vestibulum nec venenatis ligula. 
