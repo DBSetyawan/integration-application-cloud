@@ -52,7 +52,7 @@ export default class BlogPage extends Component {
                 <div className='column is-10 is-offset-1'>
                   <div className='section'>
                     <h1 className='title'>
-                     Halaman blog
+                     Blog kami
                     </h1>
                   </div>
                 </div>

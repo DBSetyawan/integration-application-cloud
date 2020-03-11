@@ -15,7 +15,7 @@ const NavBar = ({ toggleNavbar, isActive }) => (
       <nav className='navbar is-fixed-top' aria-label='main navigation'>
         <div className='navbar-brand'>
           <Link to='/' className='navbar-item'>
-            <strong>Aplikasi integrasi data keuangan</strong>
+            <strong>Custom aplikasi integrasi data keuangan</strong>
           </Link>
           <button
             className={`button navbar-burger ${isActive ? 'is-active' : ''}`}
@@ -46,7 +46,7 @@ const NavBar = ({ toggleNavbar, isActive }) => (
                   <Link
                     className='button is-primary is-outlined'
                     to='/contact'>
-                            Contact Us
+                            Hubungi Kami
                   </Link>
                 </p>
               </div>

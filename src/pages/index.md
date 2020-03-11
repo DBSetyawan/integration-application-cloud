@@ -13,7 +13,7 @@ description: >-
   adipisci velit...
 offerings:
   blurbs:
-    - image: /img/coffee.png
+    - image: /icons/partner_logo_integration_cloud.png
       text: >
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc finibus 
         sem a sem ultrices, eget sagittis magna tempor. Quisque pulvinar lorem 
@@ -24,7 +24,7 @@ offerings:
         Suspendisse sapien magna, vestibulum non vehicula id, pellentesque in ante. Nullam 
         sed auctor tellus. Sed ipsum sem, dapibus nec eros in, feugiat sagittis mi. 
         Nullam et dui interdum, varius nibh eu, efficitur metus.
-    - image: /img/coffee-gear.png
+    - image: /icons/drive-integration.png
       text: >
         Fusce semper turpis sed tortor consectetur condimentum. Nulla facilisi. Nam 
         ipsum nulla, dapibus eu mi non, commodo commodo sapien. Pellentesque luctus 
@@ -35,7 +35,7 @@ offerings:
         Etiam sed dui dapibus mauris congue facilisis. Nulla convallis, lectus vel 
         vehicula interdum, turpis nunc aliquet sem, ac iaculis ligula mauris id tortor. 
         Sed eget ornare orci, quis dignissim nulla. Pellentesque aliquam consectetur congue.
-    - image: /img/tutorials.png
+    - image: /icons/AOL-banner-atas-min.png
       text: >
         Sed in consequat leo, sit amet ullamcorper lacus. Duis lacinia, metus vitae sollicitudin 
         pharetra, ipsum augue tristique urna, in rhoncus quam tortor eget sem. Maecenas eu 
@@ -45,7 +45,7 @@ offerings:
         Sed luctus lacus vel tempus posuere. Ut suscipit auctor tortor. Phasellus leo dui, elementum 
         non sollicitudin eget, porta vehicula odio. Sed mollis, metus sit amet porttitor vehicula, 
         quam augue pretium erat, at commodo nisl tellus non risus.
-    - image: /img/meeting-space.png
+    - image: /icons/image_157824809483.jpg
       text: >
         Vestibulum libero lectus, dignissim eget magna sit amet, malesuada tincidunt mi. Vivamus 
         sed erat iaculis mauris efficitur vehicula. Aliquam sed urna at tellus ullamcorper 
@@ -61,6 +61,10 @@ testimonials:
       Donec scelerisque magna nec condimentum porttitor. Aliquam vel diam sed diam luctus pretium. 
       Sed quis egestas libero. Vestibulum nec venenatis ligula. 
   - author: Subarashi San
+    quote: >-
+      Fusce porttitor vulputate enim, nec blandit magna gravida et. Etiam et dignissim ligula. 
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  - author: Subarasdashi San
     quote: >-
       Fusce porttitor vulputate enim, nec blandit magna gravida et. Etiam et dignissim ligula. 
       Lorem ipsum dolor sit amet, consectetur adipiscing elit.
