@@ -27,7 +27,7 @@ offerings:
       text: >
         Authentication atau Otentikasi adalah suatu proses atau tindakan untuk membuktikan atau menunjukkan sesuatu yang benar, asli, atau valid.  Teknologi otentikasi menyediakan kontrol akses untuk sistem dengan memeriksa atau melihat apakah kredensial pengguna cocok dengan kredensial di dalam database pengguna yang berwenang atau di server otentikasi data.
 testimonials:
-  - author: Laila Nur Rahmadhani
+  - author: Gani Wicaksono
     quote: >-
       Sangat puas dengan projectnya sangat membantu saya dalam menjalankan bisnis, sistem bisa direquest sesuai dengan proses bisnis saya saat ini.. Good technology is seamless sukses selalu Integration application cloud. 
   # - author: Subarashi San
