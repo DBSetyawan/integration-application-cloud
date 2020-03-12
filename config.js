@@ -1,7 +1,7 @@
 module.exports = {
   siteTitle: 'Integration application cloud', // Site title.
   siteTitleAlt: 'Business', // Alternative site title for SEO.
-  siteLogo: '/icons/icons.png', // Logo used for SEO and manifest.
+  siteLogo: '/icons/incons.png', // Logo used for SEO and manifest.
   siteUrl: 'https://integration-application-cloud.netlify.com', // Domain of your website without pathPrefix.
   pathPrefix: '', // Prefixes all links. For cases when deployed to example.github.io/gatsby-starter-business/.
   siteDescription: 'Platform application integration your business.', // Website description used for RSS feeds/meta description tag.
@@ -10,7 +10,7 @@ module.exports = {
   googleTagManagerID: '', // GTM tracking ID.
   disqusShortname: 'integration-application-cloud', // Disqus shortname.
   userName: 'Daniel Budi Setyawan',
-  userTwitter: 'vaibhaved',
+  userTwitter: 'Daniel',
   userLocation: 'Sedati, Sidarjo',
   userDescription: '',
   copyright: 'Copyright © Integration process business 2020. All Rights Reserved.', // Copyright string for the footer of the website and RSS feed.

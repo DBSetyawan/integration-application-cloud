@@ -11,7 +11,7 @@ module.exports = {
       feed_url: config.siteUrl + pathPrefix + config.siteRss,
       title: config.siteTitle,
       description: config.siteDescription,
-      image_url: `${config.siteUrl + pathPrefix}/icons/icons.png`,
+      image_url: `${config.siteUrl + pathPrefix}/icons/incons.png`,
       author: config.userName,
       copyright: config.copyright,
     },
@@ -101,12 +101,12 @@ module.exports = {
         display: 'standalone',
         icons: [
           {
-            src: `/icons/icons.png`,
+            src: `/icons/incons.png`,
             sizes: `192x192`,
             type: `image/png`,
           },
           {
-            src: `/icons/icons.png`,
+            src: `/icons/incons.png`,
             sizes: `512x512`,
             type: `image/png`,
           },
