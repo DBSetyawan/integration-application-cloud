@@ -1,11 +1,8 @@
 ---
 templateKey: 'contact-page'
-title: Hubungi kami
-subtitle: Kami ingin membantu Anda, Bebas untuk mengirim E-mail...
+title: Hubungi kami disini
+subtitle: Kami ingin membantu Anda, anda bisa mengirim pesan apapun disini...
 meta_title: Hubungi kami | Integration process your business
 meta_description: >-
-  Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
-  ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam
-  venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis
-  consectetur purus sit amet fermentum.
+  Hubungi kami jika anda berminat membangun sukses anda dimasa depan..
 ---
