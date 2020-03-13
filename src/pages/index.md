@@ -27,7 +27,7 @@ offerings:
 testimonials:
   - author: Gani Wicaksono
     quote: >-
-      Sangat puas dengan projectnya sangat membantu saya dalam menjalankan bisnis, sistem bisa direquest sesuai dengan proses bisnis saya saat ini.. Good technology is seamless sukses selalu Integration application cloud. 
+      Project yang ditawarkan sangat membantu saya dalam mengembangkan bisnis berbasis web ini, sistem bisa direquest sesuai dengan proses bisnis saya saat ini. Good technology is seamless sukses selalu Integration application cloud. 
   # - author: Subarashi San
   #   quote: >-
   #     Fusce porttitor vulputate enim, nec blandit magna gravida et. Etiam et dignissim ligula. 
