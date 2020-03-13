@@ -2,14 +2,14 @@ import * as Yup from 'yup'
 
 const validationSchema = Yup.object().shape({
   name: Yup.string()
-    .min(2, 'Too Short!')
-    .max(50, 'Too Long!')
-    .required('Name is Required!'),
+    .min(2, 'Terlalu pendek!')
+    .max(50, 'Terlalu Panjang!')
+    .required('Nama tidak boleh kosong!'),
   email: Yup.string()
-    .email('Enter a Valid Email!')
-    .required('Email is Required!'),
+    .email('Ketik email dengan benar!')
+    .required('Email tidak boleh kosong!'),
   message: Yup.string()
-    .required('Message is Required!'),
+    .required('Ulasan anda sangat dibutuhkan..'),
 })
 
 export default validationSchema

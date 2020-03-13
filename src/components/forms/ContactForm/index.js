@@ -15,7 +15,7 @@ const ContactForm = () => {
       initialValues={{ name: '', email: '', message: '' }}
       validationSchema={validationSchema}
       onSubmit={(values, { setSubmitting }) => {
-        fetch("/?no-cache=1", {                                 //eslint-disable-line
+        fetch("https://getform.io/f/596e7202-b57e-42fc-8f14-a2c6e423ba20", {                                 //eslint-disable-line
           method: 'POST',
           headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
           body: encode({
@@ -47,7 +47,7 @@ const ContactForm = () => {
         data-netlify-honeypot='bot-field'
       >
         <div className='field'>
-          <label className='label'>Name</label>
+          <label className='label'>Nama anda</label>
           <div className='control'>
             <Field className='input' type='text' placeholder='Full Name' name='name' id='name' />
           </div>
@@ -55,7 +55,7 @@ const ContactForm = () => {
         </div>
 
         <div className='field'>
-          <label className='label'>Email</label>
+          <label className='label'>Email anda</label>
           <div className='control'>
             <Field className='input' type='email' placeholder='Email' name='email' id='email' />
           </div>
@@ -63,7 +63,7 @@ const ContactForm = () => {
         </div>
 
         <div className='field'>
-          <label className='label'>Message</label>
+          <label className='label'>Ulasan permasalahan anda</label>
           <div className='control'>
             <Field className='textarea' component='textarea' placeholder='Message' name='message' id='message' rows='6' />
           </div>
@@ -72,10 +72,10 @@ const ContactForm = () => {
 
         <div className='field is-grouped is-pulled-right'>
           <div className='control'>
-            <button className='button' type='reset'>Clear</button>
+            <button className='button' type='reset'>Reset</button>
           </div>
           <div className='control'>
-            <button className='button is-primary' type='submit' disabled={isSubmitting}>Submit</button>
+            <button className='button is-primary' type='submit' disabled={isSubmitting}>Kirimkan</button>
           </div>
         </div>
       </form>)}
