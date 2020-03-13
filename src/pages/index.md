@@ -1,12 +1,10 @@
 ---
 templateKey: 'home-page'
-title: Customize application integration business
+title: Aplikasi bisnis terintegrasi cloud system 
 meta_title: Dashboard | Integration process your business
 meta_description: >-
-  Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
-  ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam
-  venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis
-  consectetur purus sit amet fermentum.
+  Jasa pengintegrasian aplikasi berbasis cloud server berbasis web,
+  Aplikasi akan disesuaikan dengan proses bisnis yang anda kembangkan saat ini akan lebih mudah, fleksibel dan akurat.
 heading: Aplikasi bisnis yang terintagrasi berbasis cloud
 description: >-
   Kami menyediakan jasa custom aplikasi bisnis dengan pengintegrasian Accuate online & manajemen file bisnis anda secara terstruktur dan rapi berbasis cloud file system dengan google drive.
