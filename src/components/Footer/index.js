@@ -6,10 +6,11 @@ const Footer = () => {
     <footer className='footer'>
       <div className='container'>
         <div className='content has-text-centered'>
+          <p>Powered by <a href='https://www.gatsbyjs.org'>Gatsby</a> and <a href='https://www.netlifycms.org'>Netlify CMS</a> | Integration Application your business</p>
+          <p>Developer by <a href='https://dbsetyawan.github.io/portfolio/'>Daniel Budi Setyawan</a> & All team.</p> 
           <p>
             {config.copyright}
           </p>
-          <p>Powered by <a href='https://www.gatsbyjs.org'>Gatsby</a> and <a href='https://www.netlifycms.org'>Netlify CMS</a> | Integration Application your business</p>
         </div>
       </div>
     </footer>
