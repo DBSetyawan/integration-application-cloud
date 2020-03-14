@@ -27,7 +27,8 @@ offerings:
 testimonials:
   - author: Gani Wicaksono
     quote: >-
-      Project yang ditawarkan sangat membantu saya dalam mengembangkan bisnis berbasis web ini, sistem bisa direquest sesuai dengan proses bisnis saya saat ini. Good technology is seamless sukses selalu Integration application cloud. 
+      Good technology is seamless, Aplikasi yang ditawarkan oleh I.A.C ini sangat membantu saya dalam mengembangkan bisnis berbasis web ini,
+      sistem bisa disesuai dengan proses bisnis saya saat ini, Terus berinovasi Integration application cloud. Sukses selalu team I.A.C.
   # - author: Subarashi San
   #   quote: >-
   #     Fusce porttitor vulputate enim, nec blandit magna gravida et. Etiam et dignissim ligula. 
