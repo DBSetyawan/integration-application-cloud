@@ -16,7 +16,7 @@ import Share from '../../components/Share'
             slug={post.fields.slug}
             excerpt={post.frontmatter.meta_description}
           /> */}
-          <p>Powered by <a href='https://www.gatsbyjs.org'>Gatsby</a> and <a href='https://www.netlifycms.org'>Netlify CMS</a> | Integration Application your business</p>
+          {/* <p>Powered by <a href='https://www.gatsbyjs.org'>Gatsby</a> and <a href='https://www.netlifycms.org'>Netlify CMS</a> | Integration Application your business</p> */}
           <p>Developer by <a href='https://dbsetyawan.github.io/portfolio/'>Daniel Budi Setyawan</a> & All team.</p> 
           <p>
             {config.copyright}

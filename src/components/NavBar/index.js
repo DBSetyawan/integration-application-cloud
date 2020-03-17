@@ -31,12 +31,12 @@ const NavBar = ({ toggleNavbar, isActive }) => (
 
           <div className='navbar-end'>
             <SearchBox searchIndex={data.siteSearchIndex.index} />
-            {/* <Link className='navbar-item' to='/about'>
-                            Tentang kami
+             <Link className='navbar-item' to='/penawaran-solusi-synchronize-data-accurate-online'>
+                            Solusi Synchronize Accurate online
             </Link>
             <Link className='navbar-item' to='/pricing'>
                             Harga
-            </Link> */}
+            </Link>
             {/* <Link className='navbar-item' to='/blog'>
                             Blog
             </Link> */}

@@ -8,8 +8,8 @@ import ContactPagePreview from './preview-templates/ContactPagePreview'
 
 CMS.init()
 CMS.registerPreviewStyle('/styles.css')
-CMS.registerPreviewTemplate('home', HomePagePreview)
-CMS.registerPreviewTemplate('about', AboutPagePreview)
-CMS.registerPreviewTemplate('pricing', PricingPagePreview)
-CMS.registerPreviewTemplate('contact', ContactPagePreview)
-CMS.registerPreviewTemplate('blog', ArticlePreview)
+CMS.registerPreviewTemplate('Halaman utama', HomePagePreview)
+CMS.registerPreviewTemplate('penawaran-solusi-synchronize-data-accurate-online', AboutPagePreview)
+CMS.registerPreviewTemplate('penawaran-harga-pengintegrasian-data-accurate-online', PricingPagePreview)
+CMS.registerPreviewTemplate('kontak-kami', ContactPagePreview)
+CMS.registerPreviewTemplate('ulasan-tentang-kami', ArticlePreview)

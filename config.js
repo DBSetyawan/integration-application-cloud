@@ -1,7 +1,7 @@
 module.exports = {
   siteTitle: 'Integration application cloud', // Site title.
   siteTitleAlt: 'Business', // Alternative site title for SEO.
-  siteLogo: '/icons/incons.png', // Logo used for SEO and manifest.
+  siteLogo: '/icons/partner_logo_integration_cloud.png', // Logo used for SEO and manifest.
   siteUrl: 'https://integration-application-cloud.netlify.com', // Domain of your website without pathPrefix.
   pathPrefix: '', // Prefixes all links. For cases when deployed to example.github.io/gatsby-starter-business/.
   siteDescription: 'Platform application integration your business.', // Website description used for RSS feeds/meta description tag.
