@@ -35,7 +35,7 @@ Ada beberapa poin yang menjadi manfaat dari aplikasi integrasi cloud bagi perusa
 
   * Menambah sharing _knowledge_ perusahaan.
 
-  * Meningkatkan efisiensi kerja pada bagian keuangan perusahaan karena adanya _accurate online_ sebagai basic akuntansi yang lebih efisien, fleksibel dan Efektivitas Waktu dalam hal _custom template_ pelaporan kepada pelanggan maupun pengambilan keputusan.
+  * Meningkatkan efisiensi kerja pada bagian keuangan perusahaan karena adanya _accurate online_ sebagai basic akuntansi yang lebih efisien dan fleksibel dalam hal _custom template_ pelaporan kepada pelanggan maupun pengambilan keputusan.
 
   * Meningkatkan kualitas produk yang dihasilkan.
 
