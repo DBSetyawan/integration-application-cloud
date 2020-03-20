@@ -6,6 +6,7 @@ meta_description: >-
   Penawaran jasa pengintegrasian data ke accurate online.
 ---
 ## Penawaran pembuatan custom aplikasi bisnis
+<hr>
 
 Dengan adanya integrasi application cloud ini, 
 anda dapat membuat aplikasi sesuai dengan proses bisnis yang anda jalankan saat ini
@@ -14,6 +15,7 @@ atau anda membuat bisnis dari awal, semua bisa dilakukan disini. anda akan berja
   * Aplikasi Accurate online. ( _accounting_ )
 
 ## Tujuan pembuatan aplikasi terintegrasi berbasis web. 
+<hr>
 
 Aplikasi anda akan di **_build_** dari sisi keamanan dan kenyamanan penggunaan aplikasi yang terdapat pada pengguna/owner
 pada masing - masing hak akses yang terbatas untuk setiap fitur aplikasi sesuai dengan **_permintaan\request_** owner. <br />
@@ -22,6 +24,8 @@ pada masing - masing hak akses yang terbatas untuk setiap fitur aplikasi sesuai 
   > **aplikasi bisnis internal anda** **&rarr;** __**integration google drive cloud(manajemen data)**__ | **accurate online(accounting)**
   
 **Integration Application Cloud**
+<hr>
+
    
 * Aplikasi anda akan kami sesuaikan dengan proses bisnis yang anda jalankan secara **custom/permintaan.**
 * Pergunakan sertifikat SSL untuk menjamin keamanan aplikasi anda.
