@@ -33,7 +33,7 @@ testimonials:
   #   quote: >-
   #     Fusce porttitor vulputate enim, nec blandit magna gravida et. Etiam et dignissim ligula. 
   #     Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-  # - author: Subarasdashi San
+  # - author: Subarasdashi Sans
   #   quote: >-
   #     Fusce porttitor vulputate enim, nec blandit magna gravida et. Etiam et dignissim ligula. 
   #     Lorem ipsum dolor sit amet, consectetur adipiscing elit.
