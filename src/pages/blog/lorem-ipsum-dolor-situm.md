@@ -1,18 +1,17 @@
 ---
 templateKey: article-page
-title: Lorem Ipsum Dolor Situm
-slug: lorem-ipsum-dolor-situm
-date: 2018-03-29T03:55:49.370Z
+title: plikasi bisnis terintegrasi cloud system 
+slug: Bisnis-aplikasi-integrasi-cloud
+date: 2020-03-29T03:55:49.370Z
 cover: /img/products-grid3.jpg
-meta_title: Lorem Ipsum Dolor Situm
+meta_title: plikasi bisnis terintegrasi cloud system
 meta_description: >-
-  Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
-  ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam
-  venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis
-  consectetur purus sit amet fermentum.
+  Jasa pengintegrasian aplikasi berbasis cloud server berbasis web,
+  Aplikasi akan disesuaikan dengan proses bisnis yang anda kembangkan saat ini akan lebih mudah, fleksibel dan akurat.
+heading: Aplikasi bisnis yang terintagrasi berbasis cloud.
 tags:
-  - lorem
-  - ipsum
+  - Integration application cloud
+  - Harga
 ---
 
 Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
