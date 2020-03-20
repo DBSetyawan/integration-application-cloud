@@ -13,6 +13,8 @@ import {
   WhatsappIcon,
   LinkedinIcon,
   RedditIcon,
+  EmailShareButton,
+  EmailIcon,
   WhatsappShareButton
 } from 'react-share'
 import config from '../../../config'
@@ -61,6 +63,14 @@ class Share extends Component {
           >
             <WhatsappIcon round size={iconSize} />
           </WhatsappShareButton>
+          <EmailShareButton
+            url={shareUrl}
+            subject={title}
+            body="body"
+            className="Demo__some-network__share-button"
+          >
+            <EmailIcon size={32} round />
+          </EmailShareButton>
       </div>
     )
   }
