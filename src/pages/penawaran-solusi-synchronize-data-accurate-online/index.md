@@ -77,4 +77,5 @@ pada masing - masing hak akses yang terbatas untuk setiap fitur aplikasi sesuai 
 * Anda dapat mengintegrasikan berbagai aplikasi yang Anda gunakan dengan platform Jurnal dengan menggunakan API Key.
 
 ## Cobalah berintegrasi untuk membuat pekerjaan Anda lebih ringan
+
   > Integrasi cloud membantu Anda untuk menghubungkan aplikasi atau _software_ Anda( _berbasis web_ ) dengan _Accurate online_. Integrasi cloud juga membantu Anda untuk mengimplementasikan fungsi & fitur yang ada pada _Accurate online_ ke dalam _software_ atau aplikasi Anda.
