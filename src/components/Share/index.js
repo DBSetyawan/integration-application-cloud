@@ -64,12 +64,12 @@ class Share extends Component {
             <WhatsappIcon round size={iconSize} />
           </WhatsappShareButton>
           <EmailShareButton
-            url={shareUrl}
+            url={url}
             subject={title}
             body="body"
             className="Demo__some-network__share-button"
           >
-            <EmailIcon size={32} round />
+            <EmailIcon size={iconSize} round />
           </EmailShareButton>
       </div>
     )
