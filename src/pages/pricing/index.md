@@ -3,10 +3,7 @@ templateKey: pricing-page
 title: Pricing
 meta_title: Harga | Integration process your business
 meta_description: >-
-  Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
-  ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam
-  venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis
-  consectetur purus sit amet fermentum.
+  Estimasi biaya aplikasi web dilakukan oleh analis bisnis, pemilik produk, dan jasa penyedia aplikasi berbasis web. Bersama-sama, mereka dapat memberitahu Anda berapa biaya untuk membangun aplikasi web. Proses ini bukan pekerjaan satu hari dan membutuhkan partisipasi aktif Anda untuk membuat perkiraan lebih akurat.
 pricing:
   description: >-
     Estimasi biaya aplikasi web dilakukan oleh analis bisnis, pemilik produk, dan jasa penyedia aplikasi berbasis web. Bersama-sama, mereka dapat memberitahu Anda berapa biaya untuk membangun aplikasi web. Proses ini bukan pekerjaan satu hari dan membutuhkan partisipasi aktif Anda untuk membuat perkiraan lebih akurat.

@@ -15,7 +15,7 @@ atau anda membuat bisnis dari awal, semua bisa dilakukan disini. anda akan berja
   * Web Accurate online. ( _accounting_ )
   * Web google drive. ( _document management of your process_ )
 
-## Tujuan Aplikasi integrasi cloud berbasis web ?
+## Tujuan Aplikasi integrasi cloud berbasis web
 <hr>
   Aplikasi integrasi cloud yang dibuat pastinya memiliki tujuan, terutama bagi perusahaan. Berikut tujuan IAC:
 
@@ -23,7 +23,7 @@ atau anda membuat bisnis dari awal, semua bisa dilakukan disini. anda akan berja
   * Melakukan proses semua data yang terkumpul menjadi sebuah informasi yang bisa mendukung dalam proses pengambilan keputusan dalam perusahaan.
   * Melakukan kontrol terhadap semua aset perusahaan.
 
-## Manfaat bagi bisnis anda ?
+## Manfaat bagi bisnis anda
 <hr>
 Ada beberapa poin yang menjadi manfaat dari aplikasi integrasi cloud bagi perusahaan yang harus Anda ketahui, berikut manfaatnya:
 
@@ -33,7 +33,7 @@ Ada beberapa poin yang menjadi manfaat dari aplikasi integrasi cloud bagi perusa
 
   * Meningkatnya kemampuan perusahaan dalam mengambil suatu keputusan secara bijak.
 
-  * Menambah sharing _knowledge_ perusahaan.
+  * Menambah sharing _knowledge_ perusahaan dalam menggunakan aplikasi accurate online ( _web accounting_ ).
 
   * Meningkatkan efisiensi kerja pada bagian keuangan perusahaan karena adanya _accurate online_ sebagai basic akuntansi yang lebih efisien dan fleksibel dalam hal _custom template_ pelaporan kepada pelanggan maupun pengambilan keputusan.
 

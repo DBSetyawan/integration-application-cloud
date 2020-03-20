@@ -10,8 +10,10 @@ import {
   FacebookIcon,
   TwitterIcon,
   TelegramIcon,
+  WhatsappIcon,
   LinkedinIcon,
   RedditIcon,
+  WhatsappShareButton
 } from 'react-share'
 import config from '../../../config'
 import './styles.sass'
@@ -46,12 +48,19 @@ class Share extends Component {
           url={url}
           title={title}
           description={excerpt}
-        >
+          >
           <LinkedinIcon round size={iconSize} />
         </LinkedinShareButton>
         <TelegramShareButton url={url}>
           <TelegramIcon round size={iconSize} />
         </TelegramShareButton>
+        <WhatsappShareButton
+           title={title}
+           url={url}
+           separator={' -> '}
+          >
+            <WhatsappIcon round size={iconSize} />
+          </WhatsappShareButton>
       </div>
     )
   }
