@@ -2,10 +2,8 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import { graphql } from 'gatsby'
 import config from '../../../config'
-import Share from '../../components/Share'
 
   const FooterPage = ({ data }) => {
-  // const { markdownRemark: post } = data
 
   return (
     <footer className='footer'>
@@ -17,7 +15,7 @@ import Share from '../../components/Share'
             excerpt={post.frontmatter.meta_description}
           /> */}
           {/* <p>Powered by <a href='https://www.gatsbyjs.org'>Gatsby</a> and <a href='https://www.netlifycms.org'>Netlify CMS</a> | Integration Application your business</p> */}
-          <p>Developer by <a href='https://dbsetyawan.github.io/portfolio/'>Daniel Budi Setyawan</a> & All team.</p> 
+          <p>Developer by <a href='https://dbsetyawan.github.io/portfolio/'>Daniel Budi Setyawan</a></p> 
           <p>
             {config.copyright}
           </p>
