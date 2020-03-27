@@ -1,9 +1,9 @@
 ---
 templateKey: article-page
-title: plikasi bisnis terintegrasi cloud system 
+title: Aplikasi bisnis terintegrasi cloud system 
 slug: Bisnis-aplikasi-integrasi-cloud
 date: 2020-03-29T03:55:49.370Z
-cover: /img/products-grid3.jpg
+cover: /icons/sitelink-integrations-partners.png
 meta_title: Aplikasi bisnis terintegrasi cloud system
 meta_description: >-
     Jasa pengintegrasian aplikasi berbasis cloud server berbasis web,
