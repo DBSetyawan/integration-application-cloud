@@ -7,7 +7,7 @@ meta_description: >-
 pricing:
   description: >-
     Estimasi biaya aplikasi web dilakukan oleh analis bisnis, pemilik produk, dan jasa penyedia aplikasi berbasis web. Bersama-sama, mereka dapat memberitahu Anda berapa biaya untuk membangun aplikasi web. Proses ini bukan pekerjaan satu hari dan membutuhkan partisipasi aktif Anda untuk membuat perkiraan lebih akurat.
-  heading: Biaya pemeliharaan aplikasi
+  heading: Biaya Pembangunan project aplikasi
   plans:
     # - description: Nulla faucibus, leo a condimentum aliquam, libero leo vehicula arcu
     #   items:
@@ -30,7 +30,7 @@ pricing:
         - Kompleksitas.
         - Mengintegrasikan aplikasi Anda dengan aplikasi lain.
         - Alat Manajemen dan Operasional panel admin, beberapa peran pengguna dengan berbagai tingkat akses, dashboard, statistik, dan analitik.
-      plan: Aplikasi disesuaikan dengan kebutuhan proses bisnis anda.
+      plan: Aplikasi akan disesuaikan dengan kebutuhan proses bisnis anda.
       price: '??'
 ---
 
