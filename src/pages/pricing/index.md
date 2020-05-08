@@ -25,7 +25,7 @@ pricing:
     #   price: '80'
     - description: Dengan anda memesan aplikasi secara custom, estimasi harga akan mengikuti alur proses bisnis anda atau sesuai request anda.
       items:
-        - Tarif yang dikutip dapat berkisar dari 100 ribu - 800 ribu per jam.
+        - Tarif bisa disesuaikan dengan budget client dan kesesuaian kerumitan aplikasi yang di buat.
         - Biaya pasca-rilis.
         - Kompleksitas.
         - Mengintegrasikan aplikasi Anda dengan aplikasi lain.
